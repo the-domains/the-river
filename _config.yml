@@ -1,0 +1,14 @@
+layout_spectrum: 0.4104477
+typography_spectrum: 0.3847948
+color:
+  saturation: 0.3363896
+  lightness: 0.09841418
+  brandStrength: 0.04759022
+  brandColors:
+    - '#ACC5E9'
+    - '#0D0503'
+    - '#FB7702'
+    - '#911603'
+    - '#E9B491'
+  rhythmicContrast: 0.7112873
+name: The River
