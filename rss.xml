@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The River]]></title>
+        <description><![CDATA[The River]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 19 Feb 2016 19:03:23 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dance Is Contagious]]></title>
+            <description><![CDATA[<h1>Dance Is Contagious</h1>]]></description>
+            <link>undefineddance-is-contagious/index.html</link>
+            <guid isPermaLink="false">6ca2b675-bb27-4005-bb0e-672b34c32183</guid>
+            <pubDate>Fri, 19 Feb 2016 19:03:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
